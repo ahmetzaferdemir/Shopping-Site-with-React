@@ -1,0 +1,18 @@
+.sizesSection span {
+    color: gray;
+}
+
+.sizesSection span:hover {
+    background-color: gray;
+    color: white;
+    cursor: pointer;
+}
+
+.colorsSection span {
+    box-shadow: 2px 2px 5px black;
+}
+
+.colorsSection span:hover {
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+}
